@@ -27,7 +27,6 @@ return {
             dockerls = {},
             docker_compose_language_service = {},
             bashls = {},
-            ocamllsp = {},
             taplo = {},
             ruff_lsp = {},
         }
